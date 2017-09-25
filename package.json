@@ -1,0 +1,24 @@
+{
+  "name": "inquirer-jaysinnd",
+  "version": "1.0.0",
+  "description": "inquirer-jaysinnd",
+  "main": "inquirer.js",
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "inquirer": "^3.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OTCCIS131/inquirer-jaysinnd.git"
+  },
+  "author": "Jason Dean",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OTCCIS131/inquirer-jaysinnd/issues"
+  },
+  "homepage": "https://github.com/OTCCIS131/inquirer-jaysinnd#readme"
+}
